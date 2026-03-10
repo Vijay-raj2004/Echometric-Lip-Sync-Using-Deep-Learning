@@ -1,3 +1,4 @@
+
 # Echometric – Lip Sync Using Deep Learning
 
 Echometric is a deep learning–based lip reading system that predicts spoken words by analyzing lip movements from video. The project implements a LipNet-based architecture using TensorFlow and provides a Streamlit web interface for real-time lip-reading experiments and demonstrations.
@@ -70,3 +71,7 @@ streamlit run app/streamlitapp.py
 ## Author
 
 Madhu M S
+=======
+# Echometric-Lip-Sync-Using-Deep-Learning
+Echometric–Lip ️ Sync ️ Using ️ Deep ️ Learning ️ is ️ a ️ real-time ️ system ️ that ️ converts ️ speech ️ into ️ accurate ️ lip ️ movements ️ on ️ digital ️ faces. ️ It ️ enhances ️ digital ️ communication ️ through ️ lifelike ️ animation, ️supporting ️applications ️in ️media, ️accessibility, ️and ️virtual ️interaction.
+
