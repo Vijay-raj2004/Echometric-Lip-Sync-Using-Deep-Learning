@@ -7,4 +7,3 @@ __pycache__/
 dataset.zip
 models/
 LipNet/
-app/__pycache__/
